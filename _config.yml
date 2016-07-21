@@ -1,0 +1,14 @@
+layout_spectrum: 0.333688453072682
+typography_spectrum: 0.3118808874860406
+color:
+  brandStrength: 0.18704689852893353
+  lightness: 0.4573337116744369
+  saturation: 0.5521001177839935
+  rhythmicContrast: 0.37173213600181043
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: Always Cocktail Hour
